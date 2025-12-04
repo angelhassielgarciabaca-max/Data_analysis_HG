@@ -12,17 +12,18 @@ Apasionado por transformar datos en conocimiento útil y reproducible. Actualmen
 
 ### 📁 Proyectos Destacados  
 Cada proyecto está documentado con código, análisis y resultados reproducibles. Algunos están inspirados en estándares científicos como los utilizados en el CERN.
-1️⃣ Regresión lineal aplicada  
+1️⃣ Ob
 *Descripción:* Modelo predictivo para estimar precios o variables económicas usando regresión lineal.  
 *Herramientas:* Python, Scikit-learn, Matplotlib  
                
 ### 2️⃣ Predicción de series temporales  
 *Descripción:* Modelos ARIMA y Prophet para pronóstico de datos económicos.  
 *Herramientas:* Python, statsmodels, Prophet  
-    * [Predicción de precios](https://github.com/angelhassielgarciabaca-max/Prediccion-de-precios)
-### 3️⃣ Visualización científica estilo CERN  
-*Descripción:* Análisis y visualización de datos simulados con herramientas utilizadas en física de partículas.  
-*Herramientas:* PyROOT, Numpy, Matplotlib  
+  - * [Predicción de precios](https://github.com/angelhassielgarciabaca-max/Prediccion-de-precios)
+### 3️⃣ Ejercicios
+*Descripción:* Practicas y ejercicios en el tratamiento de datos 
+
+  - * [Web Scraping](https://github.com/angelhassielgarciabaca-max/Web-scraping)
 
 ### 4️⃣ Econometría aplicada  
 *Descripción:* Operaciones matriciales y modelos multivariantes documentados paso a paso.  
