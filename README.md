@@ -3,13 +3,10 @@ Apasionado por transformar datos en conocimiento útil y reproducible. Actualmen
 
 ## 👉 Herramientas y habilidades:
 **Lenguajes:** Python, R, SQL  
-**Análisis y visualización:** Pandas, Matplotlib, Seaborn, Numpy, Tableau, Power BI  
-**Bases de datos:** MySQL, PostgreSQL, SQLite  
+**Análisis y visualización:** Pandas, Matplotlib, Seaborn, Numpy, Power BI  
 **Ciencia de datos:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow, Keras), NLP (spaCy, NLTK)  
-**Programación:** Programación Orientada a Objetos (POO), Git, Linux  
-**Automatización y APIs:** Consumo de APIs REST, Web Scraping (BeautifulSoup, Scrapy)  
 **Reproducibilidad:** Conda, entornos virtuales, documentación modular
-
+**Paqueteria Microsoft:** Excel,Powerpoint,Word...
 ### 📁 Proyectos Destacados  
 Cada proyecto está documentado con código, análisis y resultados reproducibles. Algunos están inspirados en estándares científicos como los utilizados en el CERN.
 1️⃣ Ob
