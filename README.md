@@ -7,20 +7,26 @@ Apasionado por transformar datos en conocimiento útil y reproducible. Actualmen
 **Ciencia de datos:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow, Keras), NLP (spaCy, NLTK)  
 **Reproducibilidad:** Conda, entornos virtuales, documentación modular , Oracle
 **Paqueteria Microsoft:** Excel,Powerpoint,Word...
-
+---
 ###  Proyectos  con python
-
+  [demand-optimization-strategy](https://github.com/angelhassielgarciabaca-max/demand-optimization-strategy)
+---
 ### Proyectos con R
+---
 
 ### Automatizacion de reportes con Power BI
+---
 
 ### Alimentacion de data
-
+---
 ### Alimentacion de bases de datos
+---
 
 ### Proyectos de Trading de alta frecuencia(HFT)
+---
 
 ### Proyectoa de automatizacion
+---
 
 
 ## Datos de contacto
