@@ -7,8 +7,7 @@ Apasionado por transformar datos en conocimiento útil y reproducible. Actualmen
 **Ciencia de datos:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow, Keras), NLP (spaCy, NLTK)  
 **Reproducibilidad:** Conda, entornos virtuales, documentación modular , Oracle
 **Paqueteria Microsoft:** Excel,Powerpoint,Word...
-### 📁 Proyectos Destacados  
-Cada proyecto está documentado con código, análisis y resultados reproducibles.
+
 ###  Proyectos  con python
 
 ### Proyectos con R
@@ -25,6 +24,6 @@ Cada proyecto está documentado con código, análisis y resultados reproducible
 
 
 ## Datos de contacto
-  [Correo](angelhassielgarciabaca1@comunidad.unam.mx)
+  [Correo](angelhassielgarciabaca@gmail.com)
 ---
   [Linkdin](www.linkedin.com/in/hassiel-garcía-719756260)
