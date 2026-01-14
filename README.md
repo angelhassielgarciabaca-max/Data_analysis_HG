@@ -5,26 +5,24 @@ Apasionado por transformar datos en conocimiento útil y reproducible. Actualmen
 **Lenguajes:** Python, R, SQL  
 **Análisis y visualización:** Pandas, Matplotlib, Seaborn, Numpy, Power BI  
 **Ciencia de datos:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow, Keras), NLP (spaCy, NLTK)  
-**Reproducibilidad:** Conda, entornos virtuales, documentación modular
+**Reproducibilidad:** Conda, entornos virtuales, documentación modular , Oracle
 **Paqueteria Microsoft:** Excel,Powerpoint,Word...
 ### 📁 Proyectos Destacados  
-Cada proyecto está documentado con código, análisis y resultados reproducibles. Algunos están inspirados en estándares científicos como los utilizados en el CERN.
-1️⃣ Ob
-*Descripción:* Modelo predictivo para estimar precios o variables económicas usando regresión lineal.  
-*Herramientas:* Python, Scikit-learn, Matplotlib  
-               
-### 2️⃣ Predicción de series temporales  
-*Descripción:* Modelos ARIMA y Prophet para pronóstico de datos económicos.  
-*Herramientas:* Python, statsmodels, Prophet  
-  - * [Predicción de precios](https://github.com/angelhassielgarciabaca-max/Prediccion-de-precios)
-### 3️⃣ Ejercicios
-*Descripción:* Practicas y ejercicios en el tratamiento de datos 
+Cada proyecto está documentado con código, análisis y resultados reproducibles.
+###  Proyectos  con python
 
-  - * [Web Scraping](https://github.com/angelhassielgarciabaca-max/Web-scraping)
+### Proyectos con R
 
-### 4️⃣ Econometría aplicada  
-*Descripción:* Operaciones matriciales y modelos multivariantes documentados paso a paso.  
-*Herramientas:* R, Python, Numpy  
+### Automatizacion de reportes con Power BI
+
+### Alimentacion de data
+
+### Alimentacion de bases de datos
+
+### Proyectos de Trading de alta frecuencia(HFT)
+
+### Proyectoa de automatizacion
+
 
 ## Datos de contacto
   [Correo](angelhassielgarciabaca1@comunidad.unam.mx)
