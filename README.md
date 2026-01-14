@@ -14,7 +14,8 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 ###  Proyectos  con python
  - [demand-optimization-strategy](https://github.com/angelhassielgarciabaca-max/demand-optimization-strategy)
  - [Data_Analysis_with_PyROOT](https://github.com/angelhassielgarciabaca-max/Data_Analysis_with_PyROOT)
-  
+ - [portfolio-stochastic-simulator](https://github.com/angelhassielgarciabaca-max/portfolio-stochastic-simulator)
+   
 ---
 ### Proyectos con R
 
