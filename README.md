@@ -25,7 +25,7 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 
 ---
 ### Apps web / Interactive Dashboards (Streamlit)
- -[portfolio-stress-test-dashboard/](https://github.com/angelhassielgarciabaca-max/portfolio-stress-test-dashboard/tree/main)
+ - [portfolio-stress-test-dashboard/](https://github.com/angelhassielgarciabaca-max/portfolio-stress-test-dashboard/tree/main)
  
 ---
 ### Proyectos de Trading de alta frecuencia(HFT)
