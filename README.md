@@ -28,6 +28,7 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 
 ---
 ### Proyectos de Trading de alta frecuencia(HFT)
+- [godzilla-hft-modular-engine](https://github.com/angelhassielgarciabaca-max/godzilla-hft-modular-engine)
 
 ---
 
