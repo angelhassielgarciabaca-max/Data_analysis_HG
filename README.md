@@ -25,7 +25,8 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 
 ---
 ### Apps web / Interactive Dashboards (Streamlit)
-
+ -[portfolio-stress-test-dashboard/](https://github.com/angelhassielgarciabaca-max/portfolio-stress-test-dashboard/tree/main)
+ 
 ---
 ### Proyectos de Trading de alta frecuencia(HFT)
 - [godzilla-hft-modular-engine](https://github.com/angelhassielgarciabaca-max/godzilla-hft-modular-engine)
