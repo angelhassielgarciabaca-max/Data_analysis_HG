@@ -38,6 +38,5 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 
 
 ## Datos de contacto
-  [Correo](angelhassielgarciabaca@gmail.com)
----
-  [Linkdin](www.linkedin.com/in/hassiel-garcía-719756260)
+ - [Correo](angelhassielgarciabaca@gmail.com)
+ - [Linkdin](www.linkedin.com/in/hassiel-garcía-719756260)
