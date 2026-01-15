@@ -24,7 +24,7 @@ Paqueteria Microsoft: Excel,Powerpoint,Word...
 ### Automatizacion de reportes con Power BI
 
 ---
-### Alimentacion de bases de datos
+### Apps web (Streamlit)
 
 ---
 ### Proyectos de Trading de alta frecuencia(HFT)
